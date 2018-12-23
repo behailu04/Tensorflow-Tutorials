@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90490a49-1f07-4951-bcdb-bf97cf4bf639" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Handwritten_Recognition/MNIST_Handwritten_Recognition-.ipynb" afterPath="$PROJECT_DIR$/Handwritten_Recognition/MNIST_Handwritten_Recognition-.ipynb" />
     </list>
     <ignored path="Tensorflow-Tutorials.iws" />
     <ignored path=".idea/workspace.xml" />
