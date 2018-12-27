@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90490a49-1f07-4951-bcdb-bf97cf4bf639" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Handwritten_Recognition/MNIST_Handwritten_Recognition-.ipynb" afterPath="$PROJECT_DIR$/Handwritten_Recognition/MNIST_Handwritten_Recognition-.ipynb" />
     </list>
     <ignored path="Tensorflow-Tutorials.iws" />
@@ -268,7 +267,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="-4" width="1329" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12480857" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
