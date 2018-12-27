@@ -5,6 +5,6 @@ Requirements
 
 
 ### Notebooks
-==> Handwritten Digit Recognition Using Simple Linear Regression
-==> Convolution Neural Network Using MNIST Dataset
-==> Keras API using CNN
+- Handwritten Digit Recognition Using Simple Linear Regression
+- Convolution Neural Network Using MNIST Dataset
+- Keras API using CNN
