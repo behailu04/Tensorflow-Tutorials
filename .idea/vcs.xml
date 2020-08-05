@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASHARE" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithim_Debiasing/introtodeeplearning_labs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Algorithim_Debiasing/introtodeeplearning_labs/lab1/introtodeeplearning_labs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Solicitation-Prediction" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code" vcs="Git" />
+  </component>
+</project>
